@@ -1,0 +1,6 @@
+# WeatherApp/.gitignore
+# This file specifies intentionally untracked files to ignore in the WeatherApp project.
+
+expo-env.d.ts
+node_modules/
+# @end
